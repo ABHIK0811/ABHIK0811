@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ABHIK0811
 - 👀 I have interests in Web devlopment, Cybersecurity and Artificial Intelligence (I am no expert yet ☺)
+- 🧠 My skills include Python, Java, HTML and C.
 - 🌱 I’m currently learning Computer Science & Engineering through B.Tech
 - 💞️ I’m looking to collaborate on projects and activities
 - 📫 How to reach me:- abhikdas0811@gmail.com 
